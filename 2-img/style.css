@@ -1,0 +1,38 @@
+.haha{
+    width: 200px;
+    height: 30px;
+    border: 1px solid red;
+    text-align: center;
+    padding-top: 5px;
+    border-radius: 50px;
+    position: relative;
+    left: 500px;
+    top: 40px;
+}
+.haha:hover{
+    background-color: green;
+    color: red;
+    font-size: 20px;
+    transition: all 2s;
+}
+.yoyo{
+    width: 200px;
+    height: 30px;
+    border: 1px solid red;
+    text-align: center;
+    padding-top: 5px;
+    border-radius: 50px;
+    position: relative;
+    left: 800px;
+}
+.yoyo:hover{
+    background-color: red;
+    color: blue;
+    font-size: 20px;
+    transition: all 2s;
+}
+h1{
+    position: relative;
+    position: relative;
+    left: 600px;
+}
